@@ -1,0 +1,11 @@
+com\lucasgabriel\projetofilme\menu_base.class
+com\lucasgabriel\projetofilme\Filmes.class
+com\lucasgabriel\projetofilme\txt.class
+com\lucasgabriel\projetofilme\Resumo.class
+com\lucasgabriel\projetofilme\Projetofilme.class
+com\lucasgabriel\projetofilme\user_interface.class
+com\lucasgabriel\projetofilme\filereader.class
+com\lucasgabriel\projetofilme\csv.class
+com\lucasgabriel\projetofilme\Menu.class
+com\lucasgabriel\projetofilme\read_button.class
+com\lucasgabriel\projetofilme\Filme.class

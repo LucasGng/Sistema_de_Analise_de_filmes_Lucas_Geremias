@@ -1,0 +1,46 @@
+Titulo,Pais,Visualizacoes,ValorArrecadado,Genero,Avaliacao
+Taxidermia: Histórias Grotescas,França,3109,5546267,Aventura,9
+Valsa com Bashir,Reino Unido,4842,4602973,Animação,4
+Sentidos do Amor,França,2642,4928962,Animação,7
+Dublê de Anjo,Reino Unido,9916,8503537,Ficção Científica,9
+O Colecionador de Corpos,Estados Unidos,9824,3415016,Fantasia,4
+Sentidos do Amor,Alemanha,7216,5982698,Documentário,2
+O Colecionador de Corpos,França,8442,2243241,Documentário,7
+Sentidos do Amor,Estados Unidos,2408,8681278,Fantasia,5
+Sentidos do Amor,Alemanha,4583,2345708,Fantasia,2
+Elis,França,7260,8258643,Ação,10
+Dublê de Anjo,Reino Unido,6519,5548932,Documentário,4
+O Colecionador de Corpos,Canadá,4171,9929359,Aventura,4
+Dublê de Anjo,Espanha,5922,2473440,Documentário,2
+Sentidos do Amor,Canadá,5907,9916756,Documentário,8
+Elis,França,2506,3032834,Comédia,9
+Dublê de Anjo,Japão,5124,6136173,Comédia,8
+Sentidos do Amor,Canadá,1283,6436591,Fantasia,8
+Dublê de Anjo,Japão,9512,2531282,Aventura,4
+Boa Noite Mamãe,Brasil,2980,6489539,Comédia,6
+Dublê de Anjo,Espanha,9645,7097372,Fantasia,1
+Valsa com Bashir,Espanha,7188,8593267,Romance,2
+Boa Noite Mamãe,Reino Unido,9629,6422490,Drama,2
+O Colecionador de Corpos,Brasil,8727,2698070,Documentário,2
+Valsa com Bashir,França,4616,4909082,Ação,2
+O Colecionador de Corpos,Reino Unido,1909,5880351,Aventura,2
+Dublê de Anjo,Reino Unido,6025,1730032,Aventura,2
+Elis,Japão,2712,6430770,Fantasia,1
+Minimalismo: Um Documentário Sobre Coisas Importantes,Estados Unidos,5298,6740190,Aventura,5
+Boa Noite Mamãe,Reino Unido,6699,2974209,Animação,7
+Taxidermia: Histórias Grotescas,Japão,4135,2492673,Fantasia,3
+Jojo,Japao,10000,3000,Anime,10
+BokuNoHero,Brasil,20,10,Anime,3
+BokuNoHero,Japao,100,10000,Anime,10
+dragonball,japao,1000000,100,anime,10
+dragonball,japao,100000,500,anime,8
+pica,japao,10,10000,drama,10
+JujutsuKaisen,Japao,10000,10010,Anime,10
+dragonBall,japao,3,200,Anime,5
+BlackClover,Japao,100,10100,anime,10
+dragonball,brasil,10,10,anime,3
+JohnWick,EstadosUnidos,10,100,Acao,8
+Dragon ball,Brasil,300,132222,acao,10
+Poeira em automar,Narnia,30,30000,Drama,8
+BlackCLover,Japao,1000,200,Anime,9
+sss,brasil,300,10000,Drama,10
